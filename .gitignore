@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+ultralytics/datasets/mydata
 # C extensions
 *.so
 
